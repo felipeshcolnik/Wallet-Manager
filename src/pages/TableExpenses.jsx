@@ -71,7 +71,9 @@ class TableExpenses extends React.Component {
     const { expenses, delExpense } = this.props;
     const newExpenses = expenses
       .filter((object) => (object.id !== parseFloat(target.name)));
+    console.log(newExpenses);
     delExpense(newExpenses);
+    console.log(newExpenses);
   }
 
   render() {
