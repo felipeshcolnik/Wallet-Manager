@@ -3,6 +3,8 @@ Este é um projeto front-end de uma planilha simples, que lista todos os gastos 
 
 ### Layout do Projeto
 ![imagem da planilha] (https://github.com/felipeshcolnik/Wallet-Manager/blob/shcol_wallet_project/images/planilha-wallet.png)
+
+
 Em termos técnicos este projeto front-end, utiliza uma requisição Fetch para carregar a API com informação da cotação de diversas moedas, além de: 
   - Criar um store Redux em aplicações React
   - Criar reducers no Redux em aplicações React
