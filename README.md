@@ -1,5 +1,5 @@
 ### Sobre o projeto
-Este é um projeto front-end de uma planilha simples, que lista todos os gastos internacionais com descrição, e algumas subclasses, e valores tanto na moeda local, quanto em Real através de uma conversão utilizando cotação em tempo real. Além deste resumo de gastos, a aplicação também informa o total gasto.
+Este é um projeto front-end de uma planilha, que lista os gastos internacionais com descrição, categoria e valores tanto na moeda local, quanto em Real através de uma conversão utilizando cotação em tempo real. Além deste resumo de gastos, a aplicação também informa o total gasto.
 
 ### Layout do Projeto
 ![imagem da planilha](https://github.com/felipeshcolnik/Wallet-Manager/blob/shcol_wallet_project/images/planilha-wallet.png)
