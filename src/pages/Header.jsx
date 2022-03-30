@@ -23,8 +23,10 @@ class Header extends React.Component {
       <header>
         <h4 data-testid="email-field">{ email }</h4>
         <div className="totalExpensesBRL">
-          <h3 data-testid="total-field">{ this.totalExpenses() }</h3>
-          <h3 data-testid="header-currency-field">BRL</h3>
+          <h3 data-testid="total-field">
+            R$
+            { this.totalExpenses() }
+          </h3>
         </div>
       </header>
     );
