@@ -17,12 +17,15 @@ Em termos técnicos este projeto front-end, utiliza uma requisição Fetch para 
   
 ---
 
-## Para rodar o projeto
+## Para rodar o projeto em Linux
 
-1. Clone o repositório
-  * através do comando: `git clone git@github.com:felipeshcolnik/Wallet-Manager.git' .
+1. Clone o repositório através do comando:
+   * <a>git clone git@github.com:felipeshcolnik/Wallet-Manager.git<a>
+  
+2. Entre na pasta do projeto digitando
+  * cd Wallet-Manager
 
-2. Instale as dependências e inicialize o projeto
+3. Instale as dependências e inicialize o projeto
   * Instale as dependências:
     * `npm install`
   * Inicialize o projeto:
